@@ -15,5 +15,5 @@ function cal(){
     console.log(mul(3,4));
 }
 
-
+// project done.
 cal();
