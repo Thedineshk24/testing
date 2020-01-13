@@ -10,3 +10,6 @@ function cal(){
     console.log(sum(10,20));
     console.log(div(50,25));
 }
+
+
+cal();
